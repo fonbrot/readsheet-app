@@ -1,5 +1,5 @@
 ![rs](https://github.com/fonbrot/readsheet-app/assets/38263799/fce03019-0ef2-4f05-a4f9-1092b8d2945a)
-# ReadSheet
+# ReadSheet (2022)
 
 ReadSheet helps to learn musical notes on the staff. 
 
